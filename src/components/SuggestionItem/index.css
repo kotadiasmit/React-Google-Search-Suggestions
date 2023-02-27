@@ -1,0 +1,26 @@
+.each-list {
+  list-style-type: none;
+  margin-left: 0px;
+  margin-bottom: 5px;
+  margin-top: 0px;
+  color: #475569;
+}
+.suggestion {
+  margin: 0px;
+}
+.result-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.arrow {
+  height: 25px;
+  width: 25px;
+}
